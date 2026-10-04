@@ -1,0 +1,42 @@
+[
+  {
+    "scholarship_name": "AI Graduate Scholarship - Demo A",
+    "requirement": "IELTS",
+    "claim": "Minimum IELTS score is 6.5",
+    "source_url": null,
+    "source_type": "demo_dataset",
+    "verified": true,
+    "evidence_text": "Configured demo evidence confirms a minimum IELTS score of 6.5.",
+    "conflict_detected": false
+  },
+  {
+    "scholarship_name": "Computer Vision Research Scholarship - Demo B",
+    "requirement": "IELTS",
+    "claim": "Minimum IELTS score is 6.5",
+    "source_url": null,
+    "source_type": "demo_dataset",
+    "verified": true,
+    "evidence_text": "Configured demo evidence confirms a minimum IELTS score of 6.5.",
+    "conflict_detected": false
+  },
+  {
+    "scholarship_name": "Intelligent Systems Scholarship - Demo C",
+    "requirement": "Field of Study",
+    "claim": "Artificial Intelligence is an accepted field",
+    "source_url": null,
+    "source_type": "demo_dataset",
+    "verified": true,
+    "evidence_text": "Artificial Intelligence is included within the accepted AI-related fields.",
+    "conflict_detected": false
+  },
+  {
+    "scholarship_name": "Intelligent Systems Scholarship - Demo C",
+    "requirement": "IELTS",
+    "claim": "Minimum IELTS score is 6.0",
+    "source_url": null,
+    "source_type": "demo_dataset",
+    "verified": true,
+    "evidence_text": "Configured demo evidence confirms a minimum IELTS score of 6.0.",
+    "conflict_detected": false
+  }
+]

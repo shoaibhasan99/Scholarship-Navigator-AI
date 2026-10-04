@@ -1,0 +1,338 @@
+[
+  {
+    "scholarship_name": "Global Korea Scholarship (GKS) - Graduate",
+    "university": null,
+    "country": "South Korea",
+    "program_name": "Graduate Degree Programs",
+    "degree_level": "Masters",
+    "deadline": null,
+    "funding_details": "Government scholarship; verify the current cycle's coverage on the official notice.",
+    "official_url": "https://www.studyinkorea.go.kr/ko/plan/gksNoticeRead.do?bbsId=BBSMSTR_000000000461&nttId=4522",
+    "requirements": {
+      "minimum_cgpa": null,
+      "cgpa_scale": null,
+      "required_degree": "Bachelor",
+      "required_field": null,
+      "minimum_ielts": null,
+      "minimum_toefl": null,
+      "minimum_gre": null,
+      "english_waiver_possible": null
+    },
+    "source_verified": false
+  },
+  {
+    "scholarship_name": "Seoul National University Graduate Scholarships",
+    "university": "Seoul National University",
+    "country": "South Korea",
+    "program_name": "Graduate Programs",
+    "degree_level": "Masters",
+    "deadline": null,
+    "funding_details": "Multiple scholarship opportunities for graduate applicants; verify the current scheme and coverage.",
+    "official_url": "https://en.snu.ac.kr/admission/graduate/scholarships/before_application",
+    "requirements": {
+      "minimum_cgpa": null,
+      "cgpa_scale": null,
+      "required_degree": "Bachelor",
+      "required_field": null,
+      "minimum_ielts": null,
+      "minimum_toefl": null,
+      "minimum_gre": null,
+      "english_waiver_possible": null
+    },
+    "source_verified": false
+  },
+  {
+    "scholarship_name": "Chinese Government Scholarship (CGS) - Tsinghua University",
+    "university": "Tsinghua University",
+    "country": "China",
+    "program_name": "International Graduate Programs",
+    "degree_level": "Masters",
+    "deadline": null,
+    "funding_details": "Full CGS may cover tuition, accommodation or accommodation subsidy, stipend, and medical insurance.",
+    "official_url": "https://yz.tsinghua.edu.cn/en/Financial_Aid/Scholarship_Application.htm",
+    "requirements": {
+      "minimum_cgpa": null,
+      "cgpa_scale": null,
+      "required_degree": "Bachelor",
+      "required_field": null,
+      "minimum_ielts": null,
+      "minimum_toefl": null,
+      "minimum_gre": null,
+      "english_waiver_possible": null
+    },
+    "source_verified": false
+  },
+  {
+    "scholarship_name": "Tsinghua University Tuition Scholarships for International Graduate Students",
+    "university": "Tsinghua University",
+    "country": "China",
+    "program_name": "International Graduate Programs",
+    "degree_level": "Masters",
+    "deadline": null,
+    "funding_details": "Tsinghua graduate financial aid includes tuition scholarships and other funding opportunities.",
+    "official_url": "https://yz.tsinghua.edu.cn/en/Financial_Aid/Financial_Aid_System.htm",
+    "requirements": {
+      "minimum_cgpa": null,
+      "cgpa_scale": null,
+      "required_degree": "Bachelor",
+      "required_field": null,
+      "minimum_ielts": null,
+      "minimum_toefl": null,
+      "minimum_gre": null,
+      "english_waiver_possible": null
+    },
+    "source_verified": false
+  },
+  {
+    "scholarship_name": "Japanese Government (MEXT) Scholarship - Research Students",
+    "university": null,
+    "country": "Japan",
+    "program_name": "Research Student / Master's Pathway",
+    "degree_level": "Masters",
+    "deadline": null,
+    "funding_details": "Japanese Government scholarship for eligible graduate-level research students; verify the latest guidelines.",
+    "official_url": "https://www.studyinjapan.go.jp/en/planning/scholarships/mext-scholarships/",
+    "requirements": {
+      "minimum_cgpa": null,
+      "cgpa_scale": null,
+      "required_degree": "Bachelor",
+      "required_field": null,
+      "minimum_ielts": null,
+      "minimum_toefl": null,
+      "minimum_gre": null,
+      "english_waiver_possible": null
+    },
+    "source_verified": false
+  },
+  {
+    "scholarship_name": "The University of Tokyo Fellowship",
+    "university": "The University of Tokyo",
+    "country": "Japan",
+    "program_name": "Graduate Programs",
+    "degree_level": "Masters",
+    "deadline": null,
+    "funding_details": "Research grant-in-aid for outstanding self-funded international graduate students.",
+    "official_url": "https://www.u-tokyo.ac.jp/en/prospective-students/fellowship.html",
+    "requirements": {
+      "minimum_cgpa": null,
+      "cgpa_scale": null,
+      "required_degree": "Bachelor",
+      "required_field": null,
+      "minimum_ielts": null,
+      "minimum_toefl": null,
+      "minimum_gre": null,
+      "english_waiver_possible": null
+    },
+    "source_verified": false
+  },
+  {
+    "scholarship_name": "NTU International Outstanding Graduate Student Scholarship",
+    "university": "National Taiwan University",
+    "country": "Taiwan",
+    "program_name": "Graduate Programs",
+    "degree_level": "Masters",
+    "deadline": null,
+    "funding_details": "Graduate scholarship support may include tuition waiver and monthly stipend, subject to current rules.",
+    "official_url": "https://isss.ntu.edu.tw/finances/scholarships/",
+    "requirements": {
+      "minimum_cgpa": null,
+      "cgpa_scale": null,
+      "required_degree": "Bachelor",
+      "required_field": null,
+      "minimum_ielts": null,
+      "minimum_toefl": null,
+      "minimum_gre": null,
+      "english_waiver_possible": null
+    },
+    "source_verified": false
+  },
+  {
+    "scholarship_name": "NTU Outstanding International Graduate Student Scholarship - Prospective Students",
+    "university": "National Taiwan University",
+    "country": "Taiwan",
+    "program_name": "International Graduate Programs",
+    "degree_level": "Masters",
+    "deadline": null,
+    "funding_details": "Scholarship opportunity for prospective international graduate students; verify current award values and eligibility.",
+    "official_url": "https://management.ntu.edu.tw/en/gmba2/financing/scholarship/ntu_scholarships",
+    "requirements": {
+      "minimum_cgpa": null,
+      "cgpa_scale": null,
+      "required_degree": "Bachelor",
+      "required_field": null,
+      "minimum_ielts": null,
+      "minimum_toefl": null,
+      "minimum_gre": null,
+      "english_waiver_possible": null
+    },
+    "source_verified": false
+  },
+  {
+    "scholarship_name": "DAAD Study Scholarships - Master Studies for All Academic Disciplines",
+    "university": null,
+    "country": "Germany",
+    "program_name": "Master's Degree",
+    "degree_level": "Masters",
+    "deadline": null,
+    "funding_details": "DAAD scholarship supporting eligible graduates pursuing postgraduate or Master's study in Germany.",
+    "official_url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?daad=1&detail=50026200&status=3",
+    "requirements": {
+      "minimum_cgpa": null,
+      "cgpa_scale": null,
+      "required_degree": "Bachelor",
+      "required_field": null,
+      "minimum_ielts": null,
+      "minimum_toefl": null,
+      "minimum_gre": null,
+      "english_waiver_possible": null
+    },
+    "source_verified": false
+  },
+  {
+    "scholarship_name": "DAAD Scholarship Database - Graduate Funding Opportunities",
+    "university": null,
+    "country": "Germany",
+    "program_name": "Graduate Scholarship Opportunities",
+    "degree_level": "Masters",
+    "deadline": null,
+    "funding_details": "Official DAAD database containing scholarship programmes for international graduates.",
+    "official_url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/",
+    "requirements": {
+      "minimum_cgpa": null,
+      "cgpa_scale": null,
+      "required_degree": "Bachelor",
+      "required_field": null,
+      "minimum_ielts": null,
+      "minimum_toefl": null,
+      "minimum_gre": null,
+      "english_waiver_possible": null
+    },
+    "source_verified": false
+  },
+  {
+    "scholarship_name": "Malaysia International Scholarship (MIS)",
+    "university": null,
+    "country": "Malaysia",
+    "program_name": "Postgraduate Studies",
+    "degree_level": "Masters",
+    "deadline": null,
+    "funding_details": "Malaysian Government scholarship for international postgraduate students.",
+    "official_url": "https://biasiswa.mohe.gov.my/INTER/index.php",
+    "requirements": {
+      "minimum_cgpa": null,
+      "cgpa_scale": null,
+      "required_degree": "Bachelor",
+      "required_field": null,
+      "minimum_ielts": null,
+      "minimum_toefl": null,
+      "minimum_gre": null,
+      "english_waiver_possible": null
+    },
+    "source_verified": false
+  },
+  {
+    "scholarship_name": "Malaysian Technical Cooperation Programme (MTCP) Scholarship",
+    "university": null,
+    "country": "Malaysia",
+    "program_name": "Master's Degree",
+    "degree_level": "Masters",
+    "deadline": null,
+    "funding_details": "Government scholarship covering tuition and allowances for eligible international Master's students.",
+    "official_url": "https://mtcp.kln.gov.my/index.php/scholarship",
+    "requirements": {
+      "minimum_cgpa": 3.0,
+      "cgpa_scale": 4.0,
+      "required_degree": "Bachelor",
+      "required_field": null,
+      "minimum_ielts": 6.0,
+      "minimum_toefl": 60,
+      "minimum_gre": null,
+      "english_waiver_possible": true
+    },
+    "source_verified": false
+  },
+  {
+    "scholarship_name": "NTU Research Scholarship",
+    "university": "Nanyang Technological University",
+    "country": "Singapore",
+    "program_name": "Master's by Research",
+    "degree_level": "Masters",
+    "deadline": null,
+    "funding_details": "Scholarship for full-time graduate research students; Master's awards may be held for up to two years subject to progress.",
+    "official_url": "https://www.ntu.edu.sg/admissions/graduate/financialmatters/scholarships/rss",
+    "requirements": {
+      "minimum_cgpa": null,
+      "cgpa_scale": null,
+      "required_degree": "Bachelor",
+      "required_field": null,
+      "minimum_ielts": null,
+      "minimum_toefl": null,
+      "minimum_gre": null,
+      "english_waiver_possible": null
+    },
+    "source_verified": false
+  },
+  {
+    "scholarship_name": "NIE Master's by Research Scholarship",
+    "university": "National Institute of Education, NTU Singapore",
+    "country": "Singapore",
+    "program_name": "Master's by Research",
+    "degree_level": "Masters",
+    "deadline": null,
+    "funding_details": "Scholarship for eligible local or international full-time Master's by Research candidates.",
+    "official_url": "https://www.ntu.edu.sg/nie/admissions/graduate-education/scholarships-awards/nie-masters-by-research-scholarship",
+    "requirements": {
+      "minimum_cgpa": null,
+      "cgpa_scale": null,
+      "required_degree": "Bachelor",
+      "required_field": null,
+      "minimum_ielts": null,
+      "minimum_toefl": null,
+      "minimum_gre": null,
+      "english_waiver_possible": null
+    },
+    "source_verified": false
+  },
+  {
+    "scholarship_name": "HKUST Engineering MSc International Scholarship",
+    "university": "Hong Kong University of Science and Technology",
+    "country": "Hong Kong",
+    "program_name": "Engineering MSc Programs",
+    "degree_level": "Masters",
+    "deadline": null,
+    "funding_details": "Scholarship for academically strong international applicants to eligible HKUST Engineering MSc programs.",
+    "official_url": "https://seng.hkust.edu.hk/academics/taught-postgraduate/scholarships-and-financial-aids",
+    "requirements": {
+      "minimum_cgpa": null,
+      "cgpa_scale": null,
+      "required_degree": "Bachelor",
+      "required_field": "Engineering, Computer Science, Artificial Intelligence or related field",
+      "minimum_ielts": null,
+      "minimum_toefl": null,
+      "minimum_gre": null,
+      "english_waiver_possible": null
+    },
+    "source_verified": false
+  },
+  {
+    "scholarship_name": "HKU Faculty of Engineering MSc Global Scholarship",
+    "university": "The University of Hong Kong",
+    "country": "Hong Kong",
+    "program_name": "MSc Engineering Programs",
+    "degree_level": "Masters",
+    "deadline": null,
+    "funding_details": "Merit-based scholarship for eligible non-local MSc Engineering students.",
+    "official_url": "https://scholar.aas.hku.hk/?action=showonesscheme&ss_id=864",
+    "requirements": {
+      "minimum_cgpa": null,
+      "cgpa_scale": null,
+      "required_degree": "Bachelor",
+      "required_field": "Engineering or related field",
+      "minimum_ielts": null,
+      "minimum_toefl": null,
+      "minimum_gre": null,
+      "english_waiver_possible": null
+    },
+    "source_verified": false
+  }
+]

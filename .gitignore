@@ -1,0 +1,9 @@
+.env
+__pycache__/
+temp_pages/
+uploads/
+*.pyc
+
+.DS_Store
+Thumbs.db
+desktop.ini
